@@ -13,6 +13,8 @@ public class Program {
 		System.out.println("GOGO");
 		int i = sc.nextInt();
 		
+		System.out.println("giror");
+		
 		System.out.println(i);
 	}
 
